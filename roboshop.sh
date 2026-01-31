@@ -2,7 +2,7 @@
 
 SG_ID="sg-04990faee01bd19af" 
 AMI_ID="ami-0220d79f3f480ecf5"
-ZONE_ID="Z05013202FKF0ZL12WAOP"
+ZONE_ID="Z077840629QNDGCUJWF4O"
 DOMAIN_NAME="lokeeshde.online"
 
 for instance in $@
